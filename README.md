@@ -1,16 +1,13 @@
-# Comprehensive-COVID-19-Time-Series-Analysis-and-Forecasting
+Comprehensive-COVID-19-Time-Series-Analysis-and-Forecasting
 
- 1.Data Extraction and Analysis: Spearheaded the extraction and cleansing of COVID-19
- time-series data. Conducted Exploratory Data Analysis (EDA) processes to ensure data
- quality and integrity, employingadvanced techniques to handle missingvalues and
- outlierseffectively.
- 
- 2.Model Development and Evaluation: Developed robust time-series prediction models
- utilizing ARIMA and SARIMA methodologies. Leveraged these models to forecast COVID-
- 19 trends for the upcoming 6 months. Performed rigorous model evaluation and validation
- to ensure accuracy and reliability of predictions.
- 
- 3.Dashboard Creation and Visualization: Designed and implemented a dynamic Power BI
- dashboard for comprehensive global data analysis. Incorporated detailed insightsinto time
- seriespatterns, providing a nuanced understanding of COVID-19 trends globally and by
- specific country/region breakdowns
+This repository contains three CSV files downloaded from Dr. John Hopkins' GitHub profile, providing real-world data on COVID-19 time series. The files include comprehensive information on confirmed cases, deaths, and recoveries related to the COVID-19 pandemic, allowing for analysis and visualization of the disease's spread over time. These datasets are valuable resources for researchers, analysts, and anyone interested in understanding the global impact of the COVID-19 outbreak.
+
+original file link - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+All can also check this link and download the files
+
+**Files included:**
+1. `confirmed_cases.csv`: Time series data on confirmed COVID-19 cases.
+2. `deaths.csv`: Time series data on COVID-19-related deaths.
+3. `recoveries.csv`: Time series data on COVID-19 recoveries.
+
+Feel free to explore, analyze, and utilize these datasets for research, visualizations, or any other purposes related to understanding the progression of the COVID-19 pandemic.
