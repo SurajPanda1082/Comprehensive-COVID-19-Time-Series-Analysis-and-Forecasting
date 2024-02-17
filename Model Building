@@ -1,0 +1,8 @@
+Integrated COVID-19 Data and Predictive Modeling
+
+1.This repository hosts a collection of Python files aimed at facilitating a comprehensive analysis of COVID-19 data and forecasting future trends. The primary CSV file, titled "Capstone Project - COVID-19," consolidates information from three separate CSV files obtained from Dr. John Hopkins' GitHub profile. By merging these datasets, users can seamlessly interpret and analyze COVID-19 trends in a unified format.
+
+2.Accompanying the integrated dataset is a Python script titled "Final Model (Analysis & Predictions)- Confirmed & Deaths Cases." This script encompasses the development of a machine-learning model tailored for predicting and forecasting COVID-19 recovery and death cases over the subsequent six months. Leveraging advanced algorithms and data analysis techniques, this model offers valuable insights into the potential trajectory of the pandemic's impact on recovery and mortality rates.
+
+Explore this repository to access integrated COVID-19 data and sophisticated predictive modeling tools, empowering users to gain deeper insights into the dynamics of the pandemic and its future implications.
+This description provides a clear overview of the repository's contents and its utility for users interested in COVID-19 data analysis and predictive modeling
